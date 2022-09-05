@@ -6,16 +6,15 @@ and categories, etc. Job advertisement data analysis is becoming increasingly im
 hunting sites, as they can be used to make improvements on the experience of users searching for jobs.
 This assessment assumes that you, as a data analyst, are required to wrangle a large set of job advertisement
 records stored in xml format and with unknown data quality issues, you will also be required to integrate the
-given data set with another data source, identify and resolve conflicts in data integration. This assessment
-contains three major tasks that are specified as follows, which has to be completed in order:
+given data set with another data source, identify and resolve conflicts in data integration. 3 major tasks that are specified as follows, which has to be completed in order:
 
-+ In Task 1, you will explore the first dataset, identify its format. You will then use appropriate Python
++ In Task 1, I will explore the first dataset, identify its format. I will then use appropriate Python
 tools and libraries to parse the data into a pandas dataframe;
 
-+ Once you successfully parse the data, in Task 2, you will need to explore the data further, identify and
++ Once I successfully parse the data, in Task 2, I will need to explore the data further, identify and
 fix data problems in the dataset, and finally output the clean data as per required format.
 
-+ Then in Task 3, you will integrate the cleaned dataset (the output from Task 2) and a 2nd dataset. You
++ Then in Task 3, I will integrate the cleaned dataset (the output from Task 2) and a 2nd dataset. I
 will need to resolve any schema level conflicts, merge the data, and then identify and fix any
 data-level conflicts that may exist.
 
