@@ -1,6 +1,6 @@
 # XML and CSV Data Parsing, Cleansing and Integration - job advertisement data
 
-1[tree map structure for the job ad](tree_map_XML.png)
+![tree map structure for the job ad](tree_map_XML.png)
 
 Nowadays there are many job hunting websites including seek.com, Azuna.com, etc. These job hunting sites
 all manage a job search system, where job hunters could search for relevant jobs based on keywords, salary,
